@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-03-11T17:19:42Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.27,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Probe"
+        },
+        "Owner": "Tanguy Chevillon <tanguy.chevillon@sfr.fr>",
+        "Size": {
+            "X": 80,
+            "Y": 60
+        }
+    }
+}
