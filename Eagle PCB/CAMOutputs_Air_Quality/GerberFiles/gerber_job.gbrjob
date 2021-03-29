@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-03-22T11:07:19Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Air Quality"
+        },
+        "Owner": "Tanguy Chevillon <tanguy.chevillon@sfr.fr>",
+        "Size": {
+            "X": 68.58,
+            "Y": 53.34
+        }
+    }
+}
