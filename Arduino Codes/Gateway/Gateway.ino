@@ -15,18 +15,18 @@
 #define MQTTSUB_1_TMP "room/Temperature"
 
 //Uncomment if doing LoRa disabled tests
-#define OFFLINE
+//#define OFFLINE
 
 // Change the credentials below, so your ESP8266 connects to your router
 const char* hname = "IoT-LoRa-MQTT-Gateway";
-const char* ssid = "WIN-121R9B9CH5I 1892";
-const char* password = "60g036Bj";
+const char* ssid = "";      //Set your router SSID
+const char* password = "";  //Set your router Password
 
 // Change the variable to your MQTT Broker, so it connects to it
 const char* mqttServer = "iot.fr-par.scw.cloud";
 const int mqttPort = 1883;
-const char* mqttUser = "d337ce4c-be44-4254-a696-a478f7a1472a";
-const char* mqttPassword = "";
+const char* mqttUser = "";      //Set yout user ID
+const char* mqttPassword = "";  //Set your MQTT Password
 
 // Initializes the espClient. You should change the espClient name if you have multiple ESPs running in your home automation system
 WiFiClient espClient;
