@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2021-04-22T21:44:16Z",
+        "CreationDate": "2021-02-17T14:33:22Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,12 +13,12 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "Air Quality"
+            "ProjectId": "Gateway"
         },
         "Owner": "Tanguy Chevillon <tanguy.chevillon@sfr.fr>",
         "Size": {
-            "X": 68.58,
-            "Y": 53.34
+            "X": 77.47,
+            "Y": 62.23
         }
     }
 }
